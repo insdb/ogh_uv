@@ -1,0 +1,3167 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>Balazs Rudolf | Sirus</o:Author>
+  <o:Created>2015-06-05T18:19:34Z</o:Created>
+  <o:LastSaved>2023-06-08T15:21:33Z</o:LastSaved>
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Tabelle1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="391" ss:ExpandedColumnCount="3">
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">ns1:loc</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ns1:lastmod</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ns1:priority</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230419_OGH0002_0070OB00003_23A0000_000/JJT_20230419_OGH0002_0070OB00003_23A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230322_OGH0002_0070OB00028_23B0000_000/JJT_20230322_OGH0002_0070OB00028_23B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230125_OGH0002_0070OB00190_22Z0000_000/JJT_20230125_OGH0002_0070OB00190_22Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230125_OGH0002_0070OB00202_22I0000_000/JJT_20230125_OGH0002_0070OB00202_22I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230125_OGH0002_0070OB00212_22K0000_000/JJT_20230125_OGH0002_0070OB00212_22K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20221213_OGH0002_0070OB00160_22P0000_000/JJT_20221213_OGH0002_0070OB00160_22P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20221213_OGH0002_0070OB00209_22V0000_000/JJT_20221213_OGH0002_0070OB00209_22V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220928_OGH0002_0070OB00128_22G0000_000/JJT_20220928_OGH0002_0070OB00128_22G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220824_OGH0002_0070OB00103_22F0000_000/JJT_20220824_OGH0002_0070OB00103_22F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220824_OGH0002_0070OB00127_22K0000_000/JJT_20220824_OGH0002_0070OB00127_22K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220629_OGH0002_0070OB00076_22K0000_000/JJT_20220629_OGH0002_0070OB00076_22K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220629_OGH0002_0070OB00092_22P0000_000/JJT_20220629_OGH0002_0070OB00092_22P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220525_OGH0002_0070OB00002_22B0000_000/JJT_20220525_OGH0002_0070OB00002_22B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220525_OGH0002_0070OB00071_22Z0000_000/JJT_20220525_OGH0002_0070OB00071_22Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220525_OGH0002_0070OB00198_21Z0000_000/JJT_20220525_OGH0002_0070OB00198_21Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220429_OGH0002_0070OB00006_22S0000_000/JJT_20220429_OGH0002_0070OB00006_22S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220428_OGH0002_0070OB00008_22K0000_000/JJT_20220428_OGH0002_0070OB00008_22K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220428_OGH0002_0070OB00012_22Y0000_000/JJT_20220428_OGH0002_0070OB00012_22Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220428_OGH0002_0070OB00062_22A0000_000/JJT_20220428_OGH0002_0070OB00062_22A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220126_OGH0002_0070OB00178_21H0000_000/JJT_20220126_OGH0002_0070OB00178_21H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220126_OGH0002_0070OB00184_21S0000_000/JJT_20220126_OGH0002_0070OB00184_21S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20220126_OGH0002_0070OB00190_21Y0000_000/JJT_20220126_OGH0002_0070OB00190_21Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20211124_OGH0002_0070OB00148_21X0000_000/JJT_20211124_OGH0002_0070OB00148_21X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20211124_OGH0002_0070OB00174_21W0000_000/JJT_20211124_OGH0002_0070OB00174_21W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20211018_OGH0002_0070OB00167_21S0000_000/JJT_20211018_OGH0002_0070OB00167_21S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210929_OGH0002_0070OB00094_21F0000_000/JJT_20210929_OGH0002_0070OB00094_21F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="28">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210915_OGH0002_0070OB00105_21Y0000_000/JJT_20210915_OGH0002_0070OB00105_21Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210915_OGH0002_0070OB00147_21Z0000_000/JJT_20210915_OGH0002_0070OB00147_21Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="30">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210915_OGH0002_0070OB00152_21K0000_000/JJT_20210915_OGH0002_0070OB00152_21K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="31">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210630_OGH0002_0070OB00115_21V0000_000/JJT_20210630_OGH0002_0070OB00115_21V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="32">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210428_OGH0002_0070OB00067_21K0000_000/JJT_20210428_OGH0002_0070OB00067_21K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="33">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210428_OGH0002_0070OB00070_21A0000_000/JJT_20210428_OGH0002_0070OB00070_21A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210428_OGH0002_0070OB00075_21M0000_000/JJT_20210428_OGH0002_0070OB00075_21M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="35">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210324_OGH0002_0070OB00003_21Y0000_000/JJT_20210324_OGH0002_0070OB00003_21Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="36">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20210224_OGH0002_0070OB00022_21T0000_000/JJT_20210224_OGH0002_0070OB00022_21T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="37">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20201217_OGH0002_0070OB00204_20F0000_000/JJT_20201217_OGH0002_0070OB00204_20F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="38">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20201125_OGH0002_0070OB00156_20X0000_000/JJT_20201125_OGH0002_0070OB00156_20X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="39">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20201125_OGH0002_0070OB00187_20F0000_000/JJT_20201125_OGH0002_0070OB00187_20F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="40">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20201021_OGH0002_0070OB00133_20I0000_000/JJT_20201021_OGH0002_0070OB00133_20I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="41">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20201021_OGH0002_0070OB00171_20B0000_000/JJT_20201021_OGH0002_0070OB00171_20B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="42">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200916_OGH0002_0070OB00129_20A0000_000/JJT_20200916_OGH0002_0070OB00129_20A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="43">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200916_OGH0002_0070OB00124_20S0000_000/JJT_20200916_OGH0002_0070OB00124_20S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="44">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00031_20I0000_000/JJT_20200424_OGH0002_0070OB00031_20I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="45">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00033_20H0000_000/JJT_20200424_OGH0002_0070OB00033_20H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="46">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00037_20X0000_000/JJT_20200424_OGH0002_0070OB00037_20X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="47">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00048_20I0000_000/JJT_20200424_OGH0002_0070OB00048_20I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="48">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00066_20M0000_000/JJT_20200424_OGH0002_0070OB00066_20M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="49">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00137_19A0000_000/JJT_20200424_OGH0002_0070OB00137_19A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="50">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200424_OGH0002_0070OB00192_19I0000_000/JJT_20200424_OGH0002_0070OB00192_19I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="51">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200219_OGH0002_0070OB00039_20S0000_000/JJT_20200219_OGH0002_0070OB00039_20S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="52">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200219_OGH0002_0070OB00201_19P0000_000/JJT_20200219_OGH0002_0070OB00201_19P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="53">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20200122_OGH0002_0070OB00121_19Y0000_000/JJT_20200122_OGH0002_0070OB00121_19Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="54">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20191127_OGH0002_0070OB00160_19H0000_000/JJT_20191127_OGH0002_0070OB00160_19H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="55">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20191127_OGH0002_0070OB00182_19V0000_000/JJT_20191127_OGH0002_0070OB00182_19V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="56">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20191023_OGH0002_0070OB00113_19X0000_000/JJT_20191023_OGH0002_0070OB00113_19X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="57">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20191023_OGH0002_0070OB00162_19B0000_000/JJT_20191023_OGH0002_0070OB00162_19B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="58">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20191023_OGH0002_0070OB00168_19K0000_000/JJT_20191023_OGH0002_0070OB00168_19K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="59">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190828_OGH0002_0070OB00042_19F0000_000/JJT_20190828_OGH0002_0070OB00042_19F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="60">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190828_OGH0002_0070OB00047_19S0000_000/JJT_20190828_OGH0002_0070OB00047_19S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="61">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190626_OGH0002_0070OB00025_19F0000_000/JJT_20190626_OGH0002_0070OB00025_19F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="62">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190626_OGH0002_0070OB00045_19X0000_000/JJT_20190626_OGH0002_0070OB00045_19X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="63">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190626_OGH0002_0070OB00048_19P0000_000/JJT_20190626_OGH0002_0070OB00048_19P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="64">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190626_OGH0002_0070OB00094_19B0000_000/JJT_20190626_OGH0002_0070OB00094_19B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="65">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190529_OGH0002_0070OB00082_19P0000_000/JJT_20190529_OGH0002_0070OB00082_19P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="66">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190529_OGH0002_0070OB00223_18X0000_000/JJT_20190529_OGH0002_0070OB00223_18X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="67">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190424_OGH0002_0070OB00206_18X0000_000/JJT_20190424_OGH0002_0070OB00206_18X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="68">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190320_OGH0002_0070OB00039_19I0000_000/JJT_20190320_OGH0002_0070OB00039_19I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="69">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190320_OGH0002_0070OB00111_18A0000_000/JJT_20190320_OGH0002_0070OB00111_18A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="70">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20190130_OGH0002_0070OB00220_18F0000_000/JJT_20190130_OGH0002_0070OB00220_18F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="71">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181121_OGH0002_0070OB00159_18K0000_000/JJT_20181121_OGH0002_0070OB00159_18K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="72">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181121_OGH0002_0070OB00173_18V0000_000/JJT_20181121_OGH0002_0070OB00173_18V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="73">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181121_OGH0002_0070OB00200_18I0000_000/JJT_20181121_OGH0002_0070OB00200_18I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="74">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181031_OGH0002_0070OB00176_18K0000_000/JJT_20181031_OGH0002_0070OB00176_18K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="75">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181031_OGH0002_0070OB00178_18D0000_000/JJT_20181031_OGH0002_0070OB00178_18D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="76">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20181031_OGH0002_0070OB00197_18Y0000_000/JJT_20181031_OGH0002_0070OB00197_18Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="77">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180524_OGH0002_0070OB00186_17D0000_000/JJT_20180524_OGH0002_0070OB00186_17D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="78">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180321_OGH0002_0070OB00124_17M0000_000/JJT_20180321_OGH0002_0070OB00124_17M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="79">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180221_OGH0002_0070OB00021_18S0000_000/JJT_20180221_OGH0002_0070OB00021_18S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="80">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180221_OGH0002_0070OB00144_17B0000_000/JJT_20180221_OGH0002_0070OB00144_17B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="81">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180124_OGH0002_0070OB00139_17T0000_000/JJT_20180124_OGH0002_0070OB00139_17T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="82">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20180124_OGH0002_0070OB00169_17D0000_000/JJT_20180124_OGH0002_0070OB00169_17D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="83">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171220_OGH0002_0070OB00113_17V0000_000/JJT_20171220_OGH0002_0070OB00113_17V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="84">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171220_OGH0002_0070OB00175_17M0000_000/JJT_20171220_OGH0002_0070OB00175_17M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="85">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171220_OGH0002_0070OB00202_17G0000_000/JJT_20171220_OGH0002_0070OB00202_17G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="86">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171129_OGH0002_0070OB00115_17P0000_000/JJT_20171129_OGH0002_0070OB00115_17P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="87">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171129_OGH0002_0070OB00176_17H0000_000/JJT_20171129_OGH0002_0070OB00176_17H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="88">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20171018_OGH0002_0070OB00032_17G0000_000/JJT_20171018_OGH0002_0070OB00032_17G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="89">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170927_OGH0002_0070OB00129_17X0000_000/JJT_20170927_OGH0002_0070OB00129_17X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="90">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170705_OGH0002_0070OB00086_17Y0000_000/JJT_20170705_OGH0002_0070OB00086_17Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="91">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170614_OGH0002_0070OB00057_17H0000_000/JJT_20170614_OGH0002_0070OB00057_17H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="92">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170614_OGH0002_0070OB00206_16V0000_000/JJT_20170614_OGH0002_0070OB00206_16V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="93">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170517_OGH0002_0070OB00204_16Z0000_000/JJT_20170517_OGH0002_0070OB00204_16Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="94">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170329_OGH0002_0070OB00227_16G0000_000/JJT_20170329_OGH0002_0070OB00227_16G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="95">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170329_OGH0002_0070OB00235_16H0000_000/JJT_20170329_OGH0002_0070OB00235_16H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="96">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170215_OGH0002_0070OB00210_16G0000_000/JJT_20170215_OGH0002_0070OB00210_16G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="97">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20170125_OGH0002_0070OB00213_16Y0000_000/JJT_20170125_OGH0002_0070OB00213_16Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="98">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20161109_OGH0002_0070OB00191_16P0000_000/JJT_20161109_OGH0002_0070OB00191_16P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="99">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160928_OGH0002_0070OB00079_16T0000_000/JJT_20160928_OGH0002_0070OB00079_16T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="100">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160706_OGH0002_0070OB00100_16F0000_000/JJT_20160706_OGH0002_0070OB00100_16F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="101">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160615_OGH0002_0070OB00191_15M0000_000/JJT_20160615_OGH0002_0070OB00191_15M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:07:52+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="102">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160525_OGH0002_0070OB00030_16M0000_000/JJT_20160525_OGH0002_0070OB00030_16M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="103">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160525_OGH0002_0070OB00037_16S0000_000/JJT_20160525_OGH0002_0070OB00037_16S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="104">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160525_OGH0002_0070OB00078_16W0000_000/JJT_20160525_OGH0002_0070OB00078_16W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="105">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160406_OGH0002_0070OB00047_16M0000_000/JJT_20160406_OGH0002_0070OB00047_16M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="106">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160316_OGH0002_0070OB00015_16F0000_000/JJT_20160316_OGH0002_0070OB00015_16F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="107">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160316_OGH0002_0070OB00102_15Y0000_000/JJT_20160316_OGH0002_0070OB00102_15Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="108">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20160127_OGH0002_0070OB00222_15W0000_000/JJT_20160127_OGH0002_0070OB00222_15W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="109">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20151216_OGH0002_0070OB00124_15H0000_000/JJT_20151216_OGH0002_0070OB00124_15H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="110">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20151016_OGH0002_0070OB00117_15D0000_000/JJT_20151016_OGH0002_0070OB00117_15D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="111">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20151016_OGH0002_0070OB00161_15Z0000_000/JJT_20151016_OGH0002_0070OB00161_15Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="112">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150902_OGH0002_0070OB00103_15W0000_000/JJT_20150902_OGH0002_0070OB00103_15W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="113">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150902_OGH0002_0070OB00132_15K0000_000/JJT_20150902_OGH0002_0070OB00132_15K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="114">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150702_OGH0002_0070OB00067_15A0000_000/JJT_20150702_OGH0002_0070OB00067_15A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="115">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150702_OGH0002_0070OB00075_15B0000_000/JJT_20150702_OGH0002_0070OB00075_15B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="116">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150218_OGH0002_0070OB00225_14K0000_000/JJT_20150218_OGH0002_0070OB00225_14K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="117">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20150218_OGH0002_0070OB00053_14S0000_000/JJT_20150218_OGH0002_0070OB00053_14S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="118">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20141126_OGH0002_0070OB00195_14Y0000_000/JJT_20141126_OGH0002_0070OB00195_14Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="119">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20141105_OGH0002_0070OB00148_14M0000_000/JJT_20141105_OGH0002_0070OB00148_14M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="120">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20141029_OGH0002_0070OB00013_14H0000_000/JJT_20141029_OGH0002_0070OB00013_14H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="121">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20141029_OGH0002_0070OB00141_14G0000_000/JJT_20141029_OGH0002_0070OB00141_14G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="122">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20140917_OGH0002_0070OB00128_14W0000_000/JJT_20140917_OGH0002_0070OB00128_14W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="123">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20140910_OGH0002_0070OB00109_14A0000_000/JJT_20140910_OGH0002_0070OB00109_14A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="124">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20140910_OGH0002_0070OB00113_14I0000_000/JJT_20140910_OGH0002_0070OB00113_14I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="125">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20140910_OGH0002_0070OB00131_14M0000_000/JJT_20140910_OGH0002_0070OB00131_14M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="126">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20131113_OGH0002_0070OB00151_13A0000_000/JJT_20131113_OGH0002_0070OB00151_13A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="127">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20131002_OGH0002_0070OB00150_13D0000_000/JJT_20131002_OGH0002_0070OB00150_13D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="128">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130904_OGH0002_0070OB00139_13M0000_000/JJT_20130904_OGH0002_0070OB00139_13M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="129">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130904_OGH0002_0070OB00149_13G0000_000/JJT_20130904_OGH0002_0070OB00149_13G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="130">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130703_OGH0002_0070OB00082_13D0000_000/JJT_20130703_OGH0002_0070OB00082_13D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="131">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130619_OGH0002_0070OB00093_13X0000_000/JJT_20130619_OGH0002_0070OB00093_13X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="132">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130523_OGH0002_0070OB00043_13V0000_000/JJT_20130523_OGH0002_0070OB00043_13V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="133">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130523_OGH0002_0070OB00047_13G0000_000/JJT_20130523_OGH0002_0070OB00047_13G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="134">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130327_OGH0002_0070OB00087_12P0000_000/JJT_20130327_OGH0002_0070OB00087_12P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="135">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130327_OGH0002_0070OB00153_12V0000_000/JJT_20130327_OGH0002_0070OB00153_12V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="136">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130326_OGH0002_0070OB00012_13K0000_000/JJT_20130326_OGH0002_0070OB00012_13K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="137">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130123_OGH0002_0070OB00172_12P0000_000/JJT_20130123_OGH0002_0070OB00172_12P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="138">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130123_OGH0002_0070OB00201_12B0000_000/JJT_20130123_OGH0002_0070OB00201_12B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="139">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20130123_OGH0002_0070OB00221_12V0000_000/JJT_20130123_OGH0002_0070OB00221_12V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="140">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20120628_OGH0002_0070OB00095_12I0000_000/JJT_20120628_OGH0002_0070OB00095_12I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="141">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20120509_OGH0002_0070OB00067_12X0000_000/JJT_20120509_OGH0002_0070OB00067_12X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="142">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20120419_OGH0002_0070OB00017_12V0000_000/JJT_20120419_OGH0002_0070OB00017_12V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="143">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20120328_OGH0002_0070OB00019_12P0000_000/JJT_20120328_OGH0002_0070OB00019_12P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="144">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20120227_OGH0002_0070OB00192_11B0000_000/JJT_20120227_OGH0002_0070OB00192_11B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="145">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20111130_OGH0002_0070OB00208_11F0000_000/JJT_20111130_OGH0002_0070OB00208_11F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="146">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20111012_OGH0002_0070OB00181_11K0000_000/JJT_20111012_OGH0002_0070OB00181_11K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="147">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110928_OGH0002_0070OB00150_11A0000_000/JJT_20110928_OGH0002_0070OB00150_11A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="148">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110928_OGH0002_0070OB00156_11H0000_000/JJT_20110928_OGH0002_0070OB00156_11H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="149">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110518_OGH0002_0070OB00063_11G0000_000/JJT_20110518_OGH0002_0070OB00063_11G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="150">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110518_OGH0002_0070OB00082_11A0000_000/JJT_20110518_OGH0002_0070OB00082_11A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="151">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110309_OGH0002_0070OB00009_11S0000_000/JJT_20110309_OGH0002_0070OB00009_11S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="152">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20110309_OGH0002_0070OB00019_11M0000_000/JJT_20110309_OGH0002_0070OB00019_11M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="153">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20101124_OGH0002_0070OB00220_10V0000_000/JJT_20101124_OGH0002_0070OB00220_10V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="154">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20101022_OGH0002_0070OB00109_09V0000_000/JJT_20101022_OGH0002_0070OB00109_09V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="155">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20100714_OGH0002_0070OB00132_10B0000_000/JJT_20100714_OGH0002_0070OB00132_10B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="156">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20100505_OGH0002_0070OB00222_09M0000_000/JJT_20100505_OGH0002_0070OB00222_09M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="157">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20100421_OGH0002_0070OB00019_10K0000_000/JJT_20100421_OGH0002_0070OB00019_10K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="158">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20100421_OGH0002_0070OB00063_10F0000_000/JJT_20100421_OGH0002_0070OB00063_10F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="159">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20100127_OGH0002_0070OB00260_09Z0000_000/JJT_20100127_OGH0002_0070OB00260_09Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="160">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20091118_OGH0002_0070OB00186_09T0000_000/JJT_20091118_OGH0002_0070OB00186_09T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="161">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20091028_OGH0002_0070OB00147_09G0000_000/JJT_20091028_OGH0002_0070OB00147_09G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="162">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20091028_OGH0002_0070OB00214_09K0000_000/JJT_20091028_OGH0002_0070OB00214_09K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="163">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090930_OGH0002_0070OB00130_09G0000_000/JJT_20090930_OGH0002_0070OB00130_09G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="164">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090930_OGH0002_0070OB00135_09T0000_000/JJT_20090930_OGH0002_0070OB00135_09T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="165">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090902_OGH0002_0070OB00075_09V0000_000/JJT_20090902_OGH0002_0070OB00075_09V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="166">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090708_OGH0002_0070OB00129_09K0000_000/JJT_20090708_OGH0002_0070OB00129_09K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="167">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090603_OGH0002_0070OB00051_09I0000_000/JJT_20090603_OGH0002_0070OB00051_09I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="168">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090603_OGH0002_0070OB00229_08I0000_000/JJT_20090603_OGH0002_0070OB00229_08I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="169">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20090318_OGH0002_0070OB00288_08S0000_000/JJT_20090318_OGH0002_0070OB00288_08S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="170">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20081105_OGH0002_0070OB00232_08F0000_000/JJT_20081105_OGH0002_0070OB00232_08F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="171">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20080709_OGH0002_0070OB00136_08P0000_000/JJT_20080709_OGH0002_0070OB00136_08P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="172">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20080702_OGH0002_0070OB00120_08K0000_000/JJT_20080702_OGH0002_0070OB00120_08K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="173">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20080423_OGH0002_0070OB00228_07S0000_000/JJT_20080423_OGH0002_0070OB00228_07S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="174">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20080409_OGH0002_0070OB00024_08T0000_000/JJT_20080409_OGH0002_0070OB00024_08T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="175">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20080207_OGH0002_0070OB00248_07G0000_000/JJT_20080207_OGH0002_0070OB00248_07G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="176">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20071212_OGH0002_0070OB00202_07T0000_000/JJT_20071212_OGH0002_0070OB00202_07T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="177">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20071128_OGH0002_0070OB00185_07T0000_000/JJT_20071128_OGH0002_0070OB00185_07T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="178">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20071017_OGH0002_0070OB00224_07B0000_000/JJT_20071017_OGH0002_0070OB00224_07B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="179">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070530_OGH0002_0070OB00063_07A0000_000/JJT_20070530_OGH0002_0070OB00063_07A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="180">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070509_OGH0002_0070OB00079_07D0000_000/JJT_20070509_OGH0002_0070OB00079_07D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="181">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070509_OGH0002_0070OB00092_07S0000_000/JJT_20070509_OGH0002_0070OB00092_07S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="182">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070418_OGH0002_0070OB00054_07B0000_000/JJT_20070418_OGH0002_0070OB00054_07B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="183">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070328_OGH0002_0070OB00053_07F0000_000/JJT_20070328_OGH0002_0070OB00053_07F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="184">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20070308_OGH0002_0070OB00033_07I0000_000/JJT_20070308_OGH0002_0070OB00033_07I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="185">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20061220_OGH0002_0070OB00271_06P0000_000/JJT_20061220_OGH0002_0070OB00271_06P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="186">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20061023_OGH0002_0070OB00225_06Y0000_000/JJT_20061023_OGH0002_0070OB00225_06Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="187">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20061011_OGH0002_0070OB00175_06W0000_000/JJT_20061011_OGH0002_0070OB00175_06W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="188">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060927_OGH0002_0070OB00125_06T0000_000/JJT_20060927_OGH0002_0070OB00125_06T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="189">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060621_OGH0002_0070OB00105_06A0000_000/JJT_20060621_OGH0002_0070OB00105_06A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="190">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060510_OGH0002_0070OB00260_05V0000_000/JJT_20060510_OGH0002_0070OB00260_05V0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="191">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060426_OGH0002_0070OB00021_06Y0000_000/JJT_20060426_OGH0002_0070OB00021_06Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="192">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060308_OGH0002_0070OB00299_05D0000_000/JJT_20060308_OGH0002_0070OB00299_05D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="193">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20060125_OGH0002_0070OB00304_05I0000_000/JJT_20060125_OGH0002_0070OB00304_05I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="194">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20051128_OGH0002_0070OB00259_05X0000_000/JJT_20051128_OGH0002_0070OB00259_05X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="195">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20051019_OGH0002_0070OB00224_05Z0000_000/JJT_20051019_OGH0002_0070OB00224_05Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="196">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050711_OGH0002_0070OB00101_05M0000_000/JJT_20050711_OGH0002_0070OB00101_05M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="197">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050711_OGH0002_0070OB00151_05I0000_000/JJT_20050711_OGH0002_0070OB00151_05I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="198">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050511_OGH0002_0070OB00030_05W0000_000/JJT_20050511_OGH0002_0070OB00030_05W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="199">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050420_OGH0002_0070OB00277_04T0000_000/JJT_20050420_OGH0002_0070OB00277_04T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="200">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050330_OGH0002_0070OB00320_04S0000_000/JJT_20050330_OGH0002_0070OB00320_04S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="201">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050316_OGH0002_0070OB00037_05Z0000_000/JJT_20050316_OGH0002_0070OB00037_05Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:12:07+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="202">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050302_OGH0002_0070OB00316_04B0000_000/JJT_20050302_OGH0002_0070OB00316_04B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="203">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041117_OGH0002_0070OB00258_04Y0000_000/JJT_20041117_OGH0002_0070OB00258_04Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="204">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041117_OGH0002_0070OB00262_04M0000_000/JJT_20041117_OGH0002_0070OB00262_04M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="205">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041020_OGH0002_0070OB00225_04W0000_000/JJT_20041020_OGH0002_0070OB00225_04W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="206">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040526_OGH0002_0070OB00083_04P0000_000/JJT_20040526_OGH0002_0070OB00083_04P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="207">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040526_OGH0002_0070OB00107_04T0000_000/JJT_20040526_OGH0002_0070OB00107_04T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="208">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040421_OGH0002_0070OB00301_03W0000_000/JJT_20040421_OGH0002_0070OB00301_03W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="209">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040213_OGH0002_0070OB00017_04G0000_000/JJT_20040213_OGH0002_0070OB00017_04G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="210">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20031001_OGH0002_0070OB00219_03M0000_000/JJT_20031001_OGH0002_0070OB00219_03M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="211">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030910_OGH0002_0070OB00168_03M0000_000/JJT_20030910_OGH0002_0070OB00168_03M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="212">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030910_OGH0002_0070OB00203_03H0000_000/JJT_20030910_OGH0002_0070OB00203_03H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="213">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030805_OGH0002_0070OB00163_03A0000_000/JJT_20030805_OGH0002_0070OB00163_03A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="214">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030805_OGH0002_0070OB00178_03G0000_000/JJT_20030805_OGH0002_0070OB00178_03G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="215">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030428_OGH0002_0070OB00014_03I0000_000/JJT_20030428_OGH0002_0070OB00014_03I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="216">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030428_OGH0002_0070OB00079_03Y0000_000/JJT_20030428_OGH0002_0070OB00079_03Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="217">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030402_OGH0002_0070OB00056_03S0000_000/JJT_20030402_OGH0002_0070OB00056_03S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="218">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030115_OGH0002_0070OB00286_02P0000_000/JJT_20030115_OGH0002_0070OB00286_02P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="219">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030115_OGH0002_0070OB00289_02D0000_000/JJT_20030115_OGH0002_0070OB00289_02D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="220">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020708_OGH0002_0070OB00079_02X0000_000/JJT_20020708_OGH0002_0070OB00079_02X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="221">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020626_OGH0002_0070OB00120_02A0000_000/JJT_20020626_OGH0002_0070OB00120_02A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="222">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020626_OGH0002_0070OB00128_02B0000_000/JJT_20020626_OGH0002_0070OB00128_02B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="223">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020507_OGH0002_0070OB00078_02Z0000_000/JJT_20020507_OGH0002_0070OB00078_02Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="224">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020429_OGH0002_0070OB00036_02Y0000_000/JJT_20020429_OGH0002_0070OB00036_02Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="225">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020429_OGH0002_0070OB00073_02I0000_000/JJT_20020429_OGH0002_0070OB00073_02I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="226">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020417_OGH0002_0070OB00052_02A0000_000/JJT_20020417_OGH0002_0070OB00052_02A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="227">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020417_OGH0002_0070OB00056_02I0000_000/JJT_20020417_OGH0002_0070OB00056_02I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="228">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20011207_OGH0002_0070OB00279_01G0000_000/JJT_20011207_OGH0002_0070OB00279_01G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="229">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20011017_OGH0002_0070OB00250_01T0000_000/JJT_20011017_OGH0002_0070OB00250_01T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="230">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010711_OGH0002_0070OB00134_01H0000_000/JJT_20010711_OGH0002_0070OB00134_01H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="231">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010613_OGH0002_0070OB00133_01M0000_000/JJT_20010613_OGH0002_0070OB00133_01M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="232">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010418_OGH0002_0070OB00074_01K0000_000/JJT_20010418_OGH0002_0070OB00074_01K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="233">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010314_OGH0002_0070OB00017_01B0000_000/JJT_20010314_OGH0002_0070OB00017_01B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="234">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010228_OGH0002_0070OB00030_01I0000_000/JJT_20010228_OGH0002_0070OB00030_01I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="235">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20001214_OGH0002_0070OB00038_00I0000_000/JJT_20001214_OGH0002_0070OB00038_00I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="236">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20001214_OGH0002_0070OB00207_00T0000_000/JJT_20001214_OGH0002_0070OB00207_00T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="237">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00047_00P0000_000/JJT_20000529_OGH0002_0070OB00047_00P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="238">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00069_00Y0000_000/JJT_20000529_OGH0002_0070OB00069_00Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="239">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00074_00H0000_000/JJT_20000529_OGH0002_0070OB00074_00H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="240">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000426_OGH0002_0070OB00332_99W0000_000/JJT_20000426_OGH0002_0070OB00332_99W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="241">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000329_OGH0002_0070OB00048_00K0000_000/JJT_20000329_OGH0002_0070OB00048_00K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="242">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000126_OGH0002_0070OB00304_99B0000_000/JJT_20000126_OGH0002_0070OB00304_99B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="243">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19991020_OGH0002_0070OB00170_99X0000_000/JJT_19991020_OGH0002_0070OB00170_99X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="244">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990714_OGH0002_0070OB00186_99Z0000_000/JJT_19990714_OGH0002_0070OB00186_99Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="245">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990528_OGH0002_0070OB00127_99Y0000_000/JJT_19990528_OGH0002_0070OB00127_99Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="246">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990512_OGH0002_0070OB00372_98A0000_000/JJT_19990512_OGH0002_0070OB00372_98A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="247">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990428_OGH0002_0070OB00202_98A0000_000/JJT_19990428_OGH0002_0070OB00202_98A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="248">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990309_OGH0002_0070OB00188_98T0000_000/JJT_19990309_OGH0002_0070OB00188_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="249">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990119_OGH0002_0070OB00341_98T0000_000/JJT_19990119_OGH0002_0070OB00341_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="250">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981223_OGH0002_0070OB00164_98P0000_000/JJT_19981223_OGH0002_0070OB00164_98P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="251">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981223_OGH0002_0070OB00346_98B0000_000/JJT_19981223_OGH0002_0070OB00346_98B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="252">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981201_OGH0002_0070OB00313_98Z0000_000/JJT_19981201_OGH0002_0070OB00313_98Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="253">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980505_OGH0002_0070OB00112_98S0000_000/JJT_19980505_OGH0002_0070OB00112_98S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="254">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980505_OGH0002_0070OB00387_97F0000_000/JJT_19980505_OGH0002_0070OB00387_97F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="255">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980326_OGH0002_0070OB00018_98T0000_000/JJT_19980326_OGH0002_0070OB00018_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="256">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980224_OGH0002_0070OB00380_97A0000_000/JJT_19980224_OGH0002_0070OB00380_97A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="257">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980115_OGH0002_0070OB00370_97F0000_000/JJT_19980115_OGH0002_0070OB00370_97F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="258">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970723_OGH0002_0070OB00165_97H0000_000/JJT_19970723_OGH0002_0070OB00165_97H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="259">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970402_OGH0002_0070OB02393_96D0000_000/JJT_19970402_OGH0002_0070OB02393_96D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="260">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970115_OGH0002_0070OB02351_96B0000_000/JJT_19970115_OGH0002_0070OB02351_96B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="261">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19961204_OGH0002_0070OB02362_96W0000_000/JJT_19961204_OGH0002_0070OB02362_96W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="262">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19960918_OGH0002_0070OB02136_96K0000_000/JJT_19960918_OGH0002_0070OB02136_96K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="263">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19960717_OGH0002_0070OB00038_9500000_000/JJT_19960717_OGH0002_0070OB00038_9500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="264">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19950531_OGH0002_0070OB00005_9500000_000/JJT_19950531_OGH0002_0070OB00005_9500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="265">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19941123_OGH0002_0070OB00031_9400000_000/JJT_19941123_OGH0002_0070OB00031_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="266">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940831_OGH0002_0070OB00557_9400000_000/JJT_19940831_OGH0002_0070OB00557_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="267">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940713_OGH0002_0070OB00020_9400000_000/JJT_19940713_OGH0002_0070OB00020_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="268">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940629_OGH0002_0070OB00008_9400000_000/JJT_19940629_OGH0002_0070OB00008_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="269">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940525_OGH0002_0070OB00004_9400000_000/JJT_19940525_OGH0002_0070OB00004_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="270">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940511_OGH0002_0070OB00019_9400000_000/JJT_19940511_OGH0002_0070OB00019_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="271">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19940119_OGH0002_0070OB00002_9400000_000/JJT_19940119_OGH0002_0070OB00002_9400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="272">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19930901_OGH0002_0070OB00021_9300000_000/JJT_19930901_OGH0002_0070OB00021_9300000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="273">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19930526_OGH0002_0070OB00526_9300000_000/JJT_19930526_OGH0002_0070OB00526_9300000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="274">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19920917_OGH0002_0070OB00017_9200000_000/JJT_19920917_OGH0002_0070OB00017_9200000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="275">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19920709_OGH0002_0070OB00011_9200000_000/JJT_19920709_OGH0002_0070OB00011_9200000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="276">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19920611_OGH0002_0070OB01013_9200000_000/JJT_19920611_OGH0002_0070OB01013_9200000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="277">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19920423_OGH0002_0070OB00007_9200000_000/JJT_19920423_OGH0002_0070OB00007_9200000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="278">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19920130_OGH0002_0070OB00033_9100000_000/JJT_19920130_OGH0002_0070OB00033_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="279">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19911114_OGH0002_0070OB00024_9100000_000/JJT_19911114_OGH0002_0070OB00024_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="280">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19910904_OGH0002_0070OB00018_9100000_000/JJT_19910904_OGH0002_0070OB00018_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="281">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19910711_OGH0002_0070OB00009_9100000_000/JJT_19910711_OGH0002_0070OB00009_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="282">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19910404_OGH0002_0070OB00005_9100000_000/JJT_19910404_OGH0002_0070OB00005_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="283">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19910214_OGH0002_0070OB00002_9100000_000/JJT_19910214_OGH0002_0070OB00002_9100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="284">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19901122_OGH0002_0070OB00036_9000000_000/JJT_19901122_OGH0002_0070OB00036_9000000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="285">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19901115_OGH0002_0070OB00029_9000000_000/JJT_19901115_OGH0002_0070OB00029_9000000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="286">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19900222_OGH0002_0070OB00003_9000000_000/JJT_19900222_OGH0002_0070OB00003_9000000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="287">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19891221_OGH0002_0070OB00040_8900000_000/JJT_19891221_OGH0002_0070OB00040_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="288">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19891130_OGH0002_0070OB00044_8900000_000/JJT_19891130_OGH0002_0070OB00044_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="289">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19891019_OGH0002_0070OB00034_8900000_000/JJT_19891019_OGH0002_0070OB00034_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="290">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19891019_OGH0002_0070OB00036_8900000_000/JJT_19891019_OGH0002_0070OB00036_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="291">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19890615_OGH0002_0070OB00019_8900000_000/JJT_19890615_OGH0002_0070OB00019_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="292">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19890427_OGH0002_0070OB00011_8900000_000/JJT_19890427_OGH0002_0070OB00011_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="293">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19890223_OGH0002_0070OB00003_8900000_000/JJT_19890223_OGH0002_0070OB00003_8900000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="294">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19881215_OGH0002_0070OB00041_8800000_000/JJT_19881215_OGH0002_0070OB00041_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="295">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880922_OGH0002_0070OB00031_8800000_000/JJT_19880922_OGH0002_0070OB00031_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="296">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880728_OGH0002_0070OB00025_8800000_000/JJT_19880728_OGH0002_0070OB00025_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="297">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880728_OGH0002_0070OB00026_8800000_000/JJT_19880728_OGH0002_0070OB00026_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="298">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880728_OGH0002_0070OB00027_8800000_000/JJT_19880728_OGH0002_0070OB00027_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="299">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880519_OGH0002_0070OB00015_8800000_000/JJT_19880519_OGH0002_0070OB00015_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="300">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19880225_OGH0002_0070OB00003_8800000_000/JJT_19880225_OGH0002_0070OB00003_8800000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="301">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19871210_OGH0002_0070OB00060_8700000_000/JJT_19871210_OGH0002_0070OB00060_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:15:04+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="302">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19871112_OGH0002_0070OB00051_8700000_000/JJT_19871112_OGH0002_0070OB00051_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="303">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19871112_OGH0002_0070OB00052_8700000_000/JJT_19871112_OGH0002_0070OB00052_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="304">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19871029_OGH0002_0070OB00043_8700000_000/JJT_19871029_OGH0002_0070OB00043_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="305">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19871015_OGH0002_0070OB00044_8700000_000/JJT_19871015_OGH0002_0070OB00044_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="306">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19870730_OGH0002_0070OB00035_8700000_000/JJT_19870730_OGH0002_0070OB00035_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="307">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19870514_OGH0002_0070OB00026_8700000_000/JJT_19870514_OGH0002_0070OB00026_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="308">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19870212_OGH0002_0070OB00006_8700000_000/JJT_19870212_OGH0002_0070OB00006_8700000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="309">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19870115_OGH0002_0070OB00057_8600000_000/JJT_19870115_OGH0002_0070OB00057_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="310">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19861218_OGH0002_0070OB00055_8600000_000/JJT_19861218_OGH0002_0070OB00055_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="311">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19861106_OGH0002_0070OB00042_8600000_000/JJT_19861106_OGH0002_0070OB00042_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="312">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19860911_OGH0002_0070OB00038_8600000_000/JJT_19860911_OGH0002_0070OB00038_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="313">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19860911_OGH0002_0070OB00039_8600000_000/JJT_19860911_OGH0002_0070OB00039_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="314">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19860626_OGH0002_0070OB00023_8600000_000/JJT_19860626_OGH0002_0070OB00023_8600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="315">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19860220_OGH0002_0070OB00047_8500000_000/JJT_19860220_OGH0002_0070OB00047_8500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="316">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19850509_OGH0002_0070OB00008_8500000_000/JJT_19850509_OGH0002_0070OB00008_8500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="317">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19850509_OGH0002_0070OB00010_8500000_000/JJT_19850509_OGH0002_0070OB00010_8500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="318">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19850328_OGH0002_0070OB00009_8500000_000/JJT_19850328_OGH0002_0070OB00009_8500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="319">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19840913_OGH0002_0070OB00030_8400000_000/JJT_19840913_OGH0002_0070OB00030_8400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="320">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19840510_OGH0002_0070OB00019_8400000_000/JJT_19840510_OGH0002_0070OB00019_8400000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="321">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19831013_OGH0002_0070OB00044_8300000_000/JJT_19831013_OGH0002_0070OB00044_8300000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="322">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19830324_OGH0002_0070OB00014_8300000_000/JJT_19830324_OGH0002_0070OB00014_8300000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="323">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19810611_OGH0002_0070OB00025_8100000_000/JJT_19810611_OGH0002_0070OB00025_8100000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="324">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19760318_OGH0002_0070OB00021_7600000_000/JJT_19760318_OGH0002_0070OB00021_7600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="325">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19760304_OGH0002_0070OB00014_7600000_000/JJT_19760304_OGH0002_0070OB00014_7600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="326">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19730822_OGH0002_0070OB00147_7300000_000/JJT_19730822_OGH0002_0070OB00147_7300000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="327">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19660525_OGH0002_0070OB00056_6600000_000/JJT_19660525_OGH0002_0070OB00056_6600000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="328">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19651209_OGH0002_0070OB00360_6500000_000/JJT_19651209_OGH0002_0070OB00360_6500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="329">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19650428_OGH0002_0070OB00098_6500000_000/JJT_19650428_OGH0002_0070OB00098_6500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.80</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="330">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20050302_OGH0002_0070OB00316_04B0000_000/JJT_20050302_OGH0002_0070OB00316_04B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="331">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041117_OGH0002_0070OB00258_04Y0000_000/JJT_20041117_OGH0002_0070OB00258_04Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="332">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041117_OGH0002_0070OB00262_04M0000_000/JJT_20041117_OGH0002_0070OB00262_04M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="333">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20041020_OGH0002_0070OB00225_04W0000_000/JJT_20041020_OGH0002_0070OB00225_04W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="334">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040526_OGH0002_0070OB00083_04P0000_000/JJT_20040526_OGH0002_0070OB00083_04P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="335">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040526_OGH0002_0070OB00107_04T0000_000/JJT_20040526_OGH0002_0070OB00107_04T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="336">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040421_OGH0002_0070OB00301_03W0000_000/JJT_20040421_OGH0002_0070OB00301_03W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="337">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20040213_OGH0002_0070OB00017_04G0000_000/JJT_20040213_OGH0002_0070OB00017_04G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="338">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20031001_OGH0002_0070OB00219_03M0000_000/JJT_20031001_OGH0002_0070OB00219_03M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="339">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030910_OGH0002_0070OB00168_03M0000_000/JJT_20030910_OGH0002_0070OB00168_03M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="340">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030910_OGH0002_0070OB00203_03H0000_000/JJT_20030910_OGH0002_0070OB00203_03H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="341">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030805_OGH0002_0070OB00163_03A0000_000/JJT_20030805_OGH0002_0070OB00163_03A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="342">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030805_OGH0002_0070OB00178_03G0000_000/JJT_20030805_OGH0002_0070OB00178_03G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="343">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030428_OGH0002_0070OB00014_03I0000_000/JJT_20030428_OGH0002_0070OB00014_03I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="344">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030428_OGH0002_0070OB00079_03Y0000_000/JJT_20030428_OGH0002_0070OB00079_03Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="345">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030402_OGH0002_0070OB00056_03S0000_000/JJT_20030402_OGH0002_0070OB00056_03S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="346">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030115_OGH0002_0070OB00286_02P0000_000/JJT_20030115_OGH0002_0070OB00286_02P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="347">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20030115_OGH0002_0070OB00289_02D0000_000/JJT_20030115_OGH0002_0070OB00289_02D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="348">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020708_OGH0002_0070OB00079_02X0000_000/JJT_20020708_OGH0002_0070OB00079_02X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="349">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020626_OGH0002_0070OB00120_02A0000_000/JJT_20020626_OGH0002_0070OB00120_02A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="350">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020626_OGH0002_0070OB00128_02B0000_000/JJT_20020626_OGH0002_0070OB00128_02B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="351">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020507_OGH0002_0070OB00078_02Z0000_000/JJT_20020507_OGH0002_0070OB00078_02Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="352">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020429_OGH0002_0070OB00036_02Y0000_000/JJT_20020429_OGH0002_0070OB00036_02Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="353">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020429_OGH0002_0070OB00073_02I0000_000/JJT_20020429_OGH0002_0070OB00073_02I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="354">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020417_OGH0002_0070OB00052_02A0000_000/JJT_20020417_OGH0002_0070OB00052_02A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="355">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20020417_OGH0002_0070OB00056_02I0000_000/JJT_20020417_OGH0002_0070OB00056_02I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="356">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20011207_OGH0002_0070OB00279_01G0000_000/JJT_20011207_OGH0002_0070OB00279_01G0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="357">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20011017_OGH0002_0070OB00250_01T0000_000/JJT_20011017_OGH0002_0070OB00250_01T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="358">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010711_OGH0002_0070OB00134_01H0000_000/JJT_20010711_OGH0002_0070OB00134_01H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="359">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010613_OGH0002_0070OB00133_01M0000_000/JJT_20010613_OGH0002_0070OB00133_01M0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="360">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010418_OGH0002_0070OB00074_01K0000_000/JJT_20010418_OGH0002_0070OB00074_01K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="361">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010314_OGH0002_0070OB00017_01B0000_000/JJT_20010314_OGH0002_0070OB00017_01B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="362">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20010228_OGH0002_0070OB00030_01I0000_000/JJT_20010228_OGH0002_0070OB00030_01I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="363">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20001214_OGH0002_0070OB00038_00I0000_000/JJT_20001214_OGH0002_0070OB00038_00I0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="364">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20001214_OGH0002_0070OB00207_00T0000_000/JJT_20001214_OGH0002_0070OB00207_00T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="365">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00047_00P0000_000/JJT_20000529_OGH0002_0070OB00047_00P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="366">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00069_00Y0000_000/JJT_20000529_OGH0002_0070OB00069_00Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="367">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000529_OGH0002_0070OB00074_00H0000_000/JJT_20000529_OGH0002_0070OB00074_00H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="368">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000426_OGH0002_0070OB00332_99W0000_000/JJT_20000426_OGH0002_0070OB00332_99W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="369">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000329_OGH0002_0070OB00048_00K0000_000/JJT_20000329_OGH0002_0070OB00048_00K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="370">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20000126_OGH0002_0070OB00304_99B0000_000/JJT_20000126_OGH0002_0070OB00304_99B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="371">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19991020_OGH0002_0070OB00170_99X0000_000/JJT_19991020_OGH0002_0070OB00170_99X0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="372">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990714_OGH0002_0070OB00186_99Z0000_000/JJT_19990714_OGH0002_0070OB00186_99Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="373">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990528_OGH0002_0070OB00127_99Y0000_000/JJT_19990528_OGH0002_0070OB00127_99Y0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="374">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990512_OGH0002_0070OB00372_98A0000_000/JJT_19990512_OGH0002_0070OB00372_98A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="375">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990428_OGH0002_0070OB00202_98A0000_000/JJT_19990428_OGH0002_0070OB00202_98A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="376">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990309_OGH0002_0070OB00188_98T0000_000/JJT_19990309_OGH0002_0070OB00188_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="377">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19990119_OGH0002_0070OB00341_98T0000_000/JJT_19990119_OGH0002_0070OB00341_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="378">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981223_OGH0002_0070OB00164_98P0000_000/JJT_19981223_OGH0002_0070OB00164_98P0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="379">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981223_OGH0002_0070OB00346_98B0000_000/JJT_19981223_OGH0002_0070OB00346_98B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="380">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19981201_OGH0002_0070OB00313_98Z0000_000/JJT_19981201_OGH0002_0070OB00313_98Z0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="381">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980505_OGH0002_0070OB00112_98S0000_000/JJT_19980505_OGH0002_0070OB00112_98S0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="382">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980505_OGH0002_0070OB00387_97F0000_000/JJT_19980505_OGH0002_0070OB00387_97F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="383">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980326_OGH0002_0070OB00018_98T0000_000/JJT_19980326_OGH0002_0070OB00018_98T0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="384">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980224_OGH0002_0070OB00380_97A0000_000/JJT_19980224_OGH0002_0070OB00380_97A0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="385">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19980115_OGH0002_0070OB00370_97F0000_000/JJT_19980115_OGH0002_0070OB00370_97F0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="386">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970723_OGH0002_0070OB00165_97H0000_000/JJT_19970723_OGH0002_0070OB00165_97H0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="387">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970402_OGH0002_0070OB02393_96D0000_000/JJT_19970402_OGH0002_0070OB02393_96D0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="388">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19970115_OGH0002_0070OB02351_96B0000_000/JJT_19970115_OGH0002_0070OB02351_96B0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="389">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19961204_OGH0002_0070OB02362_96W0000_000/JJT_19961204_OGH0002_0070OB02362_96W0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="390">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19960918_OGH0002_0070OB02136_96K0000_000/JJT_19960918_OGH0002_0070OB02136_96K0000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="391">
+    <Cell><Data ss:Type="String">https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_19960717_OGH0002_0070OB00038_9500000_000/JJT_19960717_OGH0002_0070OB00038_9500000_000.html</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">2023-06-08T15:16:46+00:00</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.64</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3" />
+    <Footer x:Margin="0.3" />
+    <PageMargins x:Top="0.75" x:Bottom="0.75" x:Left="0.7" x:Right="0.7" />
+   </PageSetup>
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R391C3</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
